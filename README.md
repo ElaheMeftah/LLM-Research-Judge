@@ -3,7 +3,7 @@
 LLM-assisted scientific abstract and manuscript evaluation.
 
 This repository contains the code used for abstract evaluation in the
-[18th Professor Alborzi International Congress of Clinical Microbiology (PAICCM2025)](https://congress.alborzicmrc.ir/index.php).
+[18th Professor Alborzi International Congress of Clinical Microbiology (PAICCM2025)](https://congress.alborzicmrc.ir/index.php) that was held on October 2025.
 It includes utilities for parsing abstracts, screening submissions, running structured LLM evaluation, and exporting results.
 
 ## Main Workflow
