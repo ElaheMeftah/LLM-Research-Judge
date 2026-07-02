@@ -1,0 +1,17 @@
+﻿ipykernel>=6.29
+langchain>=0.3
+langchain-community>=0.3
+langchain-openai>=0.3
+numpy>=1.26
+openai>=1.99
+openpyxl>=3.1
+pandas>=2.2
+pydantic>=2.0
+PyMuPDF>=1.25
+python-docx>=1.2
+python-dotenv>=1.1
+RapidFuzz>=3.13
+requests>=2.32
+tavily-python>=0.7
+textract>=1.6
+tiktoken>=0.9

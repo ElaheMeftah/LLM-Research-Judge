@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project outputs
+LLM_outputs/
+evaluation_results/
+split_evaluation_results/
+evaluation_comparison/
+test_eval_results/
+corrupted_llm_outputs/
+screening_results.json
+checkpoint_*.json
+results_all_*.json
+included_abstracts_*.json
+excluded_abstracts_*.json
+
+# Codex-specific
+.agents/
+.codex/
